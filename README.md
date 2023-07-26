@@ -23,8 +23,11 @@ Set up the  secret keys in a .env file
 SECRET_KEY="your_secret_key_here"
 ```
 run the project
+
+
 ```
 python app.py
+```
 
 
 #### Build with  HTML, Flask, OpenAI API, Langchain  
