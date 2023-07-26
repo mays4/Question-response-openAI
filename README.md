@@ -13,6 +13,7 @@ install python3 virtual environment
 ```
 python3 -m venv env
 source env/bin/activate
+pip install -r requirements.txt
 ```
 Set up the keys in a .env file
 ```
